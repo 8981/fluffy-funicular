@@ -1,5 +1,5 @@
 ﻿namespace GitHubHelper.Models;
-public class Class1
+public class Model
 {
-
+    
 }
